@@ -1,0 +1,17 @@
+.footer {
+    width: 100%;
+    padding: 5px 5%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: #5a5a89;
+    margin-top: ;
+  }
+  .data-visual, .year {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 16px;
+    color: #5A5A89;
+  }

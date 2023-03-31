@@ -1,0 +1,69 @@
+.sidebar {
+    z-index: 999;
+    position: fixed;
+    margin-top: 20px;
+    height: auto;
+    width: 30%;
+    padding-left: 3%;
+  }
+  .sidebar h6 {
+    font-family: "Archivo";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20.5076px;
+    line-height: 22px;
+    color: #000000;
+  }
+  .div1 {
+    margin-top: 60px;
+  }
+  .users {
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 32px;
+    color: #383874;
+  }
+  .users span {
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 10px;
+    margin-left: 20px;
+    color: #383874;
+  }
+  .total {
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 72px;
+    line-height: 100px;
+    color: #383874;
+  }
+  .distributes {
+    margin-top: 50px;
+    color: #383874;
+  }
+  .percentage-circle {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .percentage-circle-body {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 20px;
+  }
+  .percentage-circle-data {
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+  }
+  .percentage-circle-title {
+    color: #383874;
+    margin-top: 5px;
+  }
+  

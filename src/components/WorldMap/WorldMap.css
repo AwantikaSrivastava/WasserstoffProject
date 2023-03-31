@@ -1,0 +1,8 @@
+.worldmap {
+    height: 90vh;
+    width: 100%;
+    background: #e2e4f0;
+    padding-left: 15%;
+    display: flex;
+    flex-direction: column;
+  }

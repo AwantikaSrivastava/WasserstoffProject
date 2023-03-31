@@ -1,0 +1,63 @@
+.navbar {
+    height: 60px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 2rem;
+  }
+  p {
+    font-family: "Archivo";
+    font-size: 21px;
+    font-weight: 400;
+    padding-left: 3px;
+    line-height: 22px;
+  }
+  .search-navlist {
+    display: flex;
+    justify-content: space-between;
+    width: 70%;
+  }
+  .search-box {
+    background: #eef0fa;
+    border-radius: 8px;
+    width: 35%;
+    margin-left: 2rem;
+    padding: 5px 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 30px;
+  }
+  .search-box input{
+    border: none;
+    width: 90%;
+    background-color: #eef0fa;
+  }
+  
+  .menu {
+    display: flex;
+    width: 55%;
+    display: flex;
+    align-items: center;
+    gap: 60px;
+  }
+  
+  .menu li {
+    list-style: none;
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    color: #8484a0;
+    cursor: pointer;
+  }
+  .menu li:hover{
+    color:black;
+  }
+  .profile-section {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    color: #A1A3D4;
+  }

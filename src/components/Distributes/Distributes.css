@@ -1,0 +1,32 @@
+.div2 {
+    display: flex;
+    align-items: center;
+    padding-bottom: 2rem;
+  }
+  .totalearnicon {
+    height: 60px;
+    width: 60px;
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .total-earn {
+  
+    padding-left: 2rem;
+  }
+  .heading {
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 32px;
+  }
+  .count {
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 32px;
+  }
+  

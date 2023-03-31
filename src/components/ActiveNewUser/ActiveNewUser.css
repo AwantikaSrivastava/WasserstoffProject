@@ -1,0 +1,14 @@
+.active {
+    height: 100%;
+    display: flex;
+    border: 2px solid red;
+}
+.active-users {
+    border: 2px solid red;
+    height: 55px;
+    width: 55px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+}

@@ -1,0 +1,102 @@
+.designfaster {
+    width: 30vw;
+    height: auto;
+    text-align: center;
+  }
+  
+  .headingDesign {
+    font-family: "poppins";
+    letter-spacing: -0.44px;
+    text-align: left;
+    font-weight: 400;
+    font-size: 24px;
+  }
+  
+  .cirle-earning {
+    width: 75%;
+    margin: 0.5rem auto;
+    padding: 0.5rem;
+    height: 40vh;
+    border-radius: 15px;
+    border: 1px solid lightgray;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  }
+  
+  .circles {
+    height: 86px;
+    width: 86px;
+    border-radius: 50%;
+    background: lightgray;
+    margin: auto;
+  }
+  
+  .innercircle {
+    height: 78px;
+    width: 78px;
+    background: #ffff;
+  
+  }
+  
+  .innermostcircle {
+    height: 49px;
+    width: 49px;
+    background: lightgray;
+    border-radius: 50%;
+  }
+  p {
+    font-family: "roboto";
+    color: #383874;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    align-items: center;
+  }
+  .updown {
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15px;line-height: 25px;
+  }
+  .compare {
+    font-family: "Roboto";
+    font-size: 12px;
+    line-height: 16px;
+    color: #383874;
+  }
+  .types {
+    height: auto;
+    width: 20vw;
+    margin: 0.5rem auto;
+  }
+  .types div {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    padding: 0.3rem 0;
+    font-size: 14px;
+  }
+  .bg-blue {
+    height: 19vh;
+    border-radius: 15px;
+    width: 75%;
+    margin: auto;
+    background: #8676ff;
+  }
+  .bg-blue div{
+    height: 50%;
+    padding: 0.3rem;
+  }
+  .acc-data {
+    width: 75%;
+    border-radius: 15px;
+    padding: 0.3rem;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    font-size: 0.5rem;
+  }
+  .bubbles {
+    height:100%;
+    width: 70%;
+    flex-direction: column;
+    background: #eef1fa;border-radius:30px;
+  }
+  
