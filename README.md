@@ -23,6 +23,6 @@ Link: https://wasserstoff-project-rouge.vercel.app/
 
 Video Link:- https://youtu.be/053MaPk5VZY
 
-=======Approach================== I had go through the design and get how to implement the basic structure using RecatJs and css.Using React-router-dom I had done Navbar to navigate the components then I have created individual components for reuseability. after that I focused on how to implement a map using react-simple-map go through the react simple map and design and implement step by step as such possible. After that I thought about how to implement graphs like Bar chart , bubble chart I had read about on how how to implement and apply on my project so I done using ApexChart library,react chart.
+=======Approach================== I had go through the design and get how to implement the basic structure using ReactJs and css.Using React-router-dom I had done Navbar to navigate the components then I have created individual components for reuseability. after that I focused on how to implement a map using react-simple-map go through the react simple map and design and implement step by step as such possible. After that I thought about how to implement graphs like Bar chart , bubble chart I had read about on how how to implement and apply on my project so I done using ApexChart library,react chart.
     
   
