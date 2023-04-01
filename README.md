@@ -17,7 +17,7 @@ TechStack-ReactJs
     
   ========hosted links---------------------
 
-Link: https://vercel.com/awantikasrivastava/wasserstoff-project
+Link: https://wasserstoff-project-rouge.vercel.app/
 
 =============video Link=================
 
