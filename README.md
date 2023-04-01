@@ -15,9 +15,14 @@ TechStack-ReactJs
     "react-simple-maps": "^3.0.0",
     "recharts": "^2.5.0",
     
-    ==============links--------------
-    Video Link: https://youtu.be/053MaPk5VZY
-    
-    Host Link:  https://wasserstoff-project-rouge.vercel.app/
+  ========hosted links---------------------
+
+Link: https://vercel.com/awantikasrivastava/wasserstoff-project
+
+=============video Link=================
+
+Video Link:- https://youtu.be/1bR0c5WpuZ0
+
+=======Approach================== I had go through the design and get how to implement the basic structure and design using Sass(Syntactically Awesome Style Sheets).Using React-router-dom i had done Navbarto navigate the components then i have created individual components for reuseability. after that i focused on how to implement a map using react-simple-map go through the react simple map and design and implement step by step as such possible. After that i thought about how to implement graphs like Bar chart , bubble chart and scatter charts i had read about on how how to implement and apply on my project so i done using ApexChart library,react charts and i implemented the bubble chart using JSX and SASS
     
   
